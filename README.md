@@ -1,7 +1,4 @@
-### 👋 Hello
-I'm **Huge**
-<br>
-<br>
+### Hello, I'm Huge
 Playing WoW since 2006 (with breaks in between like everyone) 
 <br>
 Former founder and GM of - R O I D S - SoD - Crusader Strike + Living Flame
@@ -11,14 +8,14 @@ Retired and found joy with playing HC on Project Epoch - Still Alive
 
 ---
 
-### 🖖 Profession:
+### Profession
  
 A joyful **Architect**, in love with automation. <br>
 *Coding as a hobby.*
 
 ---
 
-### 🌱 I'm a work in progress:
+### 🌱 Work in progress
   <em>Basic Knowledge:</em>
   <br>
   <br>
@@ -29,10 +26,7 @@ A joyful **Architect**, in love with automation. <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="30px" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" height="30px" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" height="30px" width="30px">
-  
-</div>
-<br>
-<div>
+
   <em>Currently learning:</em>
   <br>
   <br>
@@ -41,7 +35,7 @@ A joyful **Architect**, in love with automation. <br>
 
 --- 
 
-### 🔭 I’m currently working on:
+### 🔭 Working on
 
 A capable Zygor Guide for Epoch, horde side.
 <!--
