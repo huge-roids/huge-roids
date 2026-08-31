@@ -15,7 +15,7 @@ A joyful **Architect**, in love with automation. <br>
 
 ---
 
-### 🌱 Work in progress
+### 🌱 Progress
   <em>Basic Knowledge:</em>
   <br>
   <br>
