@@ -22,7 +22,6 @@ A joyful **Architect**, in love with automation. <br>
   <em>Basic Knowledge:</em>
   <br>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" height="30px" width="30px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" title="Lisp (AutoCAD)" height="30px" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="30px" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" height="30px" width="30px">
