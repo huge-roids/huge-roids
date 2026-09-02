@@ -10,7 +10,7 @@ Retired and found joy with playing HC on Project Epoch - Still Alive
 
 ### Profession
  
-A joyful **Architect**, in love with automation. <br>
+**Architect**, in love with automation. <br>
 *Coding as a hobby.*
 
 ---
